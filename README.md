@@ -1,5 +1,9 @@
 # trynix
 
+`nix-instantiate --eval` evaluates default.nix
+
+`nix-shell` executed shell.nix
+
 
 ## References
 - [nix-language](https://nix.dev/tutorials/nix-language)
